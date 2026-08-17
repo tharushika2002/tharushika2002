@@ -19,19 +19,7 @@ I enjoy learning new technologies, developing backend systems, testing applicati
 
 ---
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=django,react,tailwind" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,postman" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,django,react,tailwind,postgresql,mysql,selenium,postman,git,github,vscode" />
 </p>
 ---
 
