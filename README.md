@@ -18,10 +18,12 @@ I enjoy learning new technologies, developing backend systems, testing applicati
 * 💡 Always learning and building new projects
 
 ---
+### ⚙️ Tools & Technologies
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,html,css,django,react,tailwind,postgresql,mysql,selenium,postman,git,github,vscode" />
 </p>
----
+
 
 ### 🌱 Currently Learning
 
