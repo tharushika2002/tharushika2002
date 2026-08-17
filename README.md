@@ -1,3 +1,15 @@
+<div align="center">
+
+<a href="https://github.com/tharushika2002">
+  <img 
+    src="https://skillicons.dev/icons?i=github"
+    width="100"
+  />
+</a>
+
+
+</div>
+
 
 # Hi there, I'm Ruchini Tharushika 👋
 
