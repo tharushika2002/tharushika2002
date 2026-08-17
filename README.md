@@ -1,33 +1,27 @@
-<div align="center">
-
 # Hi there, I'm Ruchini Tharushika 👋
 
 ### 💻 Backend Developer | QA Enthusiast | IT Undergraduate
 
-I'm passionate about **Backend Development and Quality Assurance**,
-with an interest in building reliable and user-friendly software applications.
+I'm passionate about **Backend Development and Quality Assurance**, with an interest in building reliable and user-friendly software applications.
 
-I enjoy learning new technologies, developing backend systems,
-testing applications, and solving real-world problems through code. 🚀
-
-</div>
+I enjoy learning new technologies, developing backend systems, testing applications, and solving real-world problems through code. 🚀
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 * 🎓 BSc (Hons) in Information Technology
 * 💻 Focused on **Backend Development**
 * 🧪 Interested in **Software Quality Assurance & Testing**
 * 🌱 Currently improving my skills in **Django, Backend Development & Automation Testing**
-* 🔍 Interested in **API Testing and Automation Testing**
+* 🔍 Interested in API Testing and Automation Testing
 * 💡 Always learning and building new projects
 
 ---
 
-<div align="center">
+### ⚙️ Tools & Technologies
 
-## ⚙️ Tools & Technologies
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,html,css,django,react,tailwind,postgresql,mysql,selenium,postman,git,github,vscode" />
 
@@ -35,7 +29,7 @@ testing applications, and solving real-world problems through code. 🚀
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 * Advanced Django Development
 * Backend Development
@@ -46,14 +40,10 @@ testing applications, and solving real-world problems through code. 🚀
 
 ---
 
-<div align="center">
-
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 I'm always interested in **learning, collaborating, testing, and building better software**.
 
 ⭐ Thanks for visiting my profile!
 
-### Ruchini Tharushika Thilakarathna
-
-</div>
+**Ruchini Tharushika Thilakarathna**
