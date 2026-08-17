@@ -41,14 +41,6 @@ I enjoy learning new technologies, developing backend systems, testing applicati
 
 ---
 
-### 📌 Project
-
-🎓 **Student Management System**
-
-A web-based student management system built with **Python and Django**, featuring student and course management.
-
----
-
 ### 🌱 Currently Learning
 
 * Advanced Django Development
