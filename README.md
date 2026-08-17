@@ -1,31 +1,41 @@
+<div align="center">
+
 # Hi there, I'm Ruchini Tharushika 👋
 
 ### 💻 Backend Developer | QA Enthusiast | IT Undergraduate
 
-I'm passionate about **Backend Development and Quality Assurance**, with an interest in building reliable and user-friendly software applications.
+I'm passionate about **Backend Development and Quality Assurance**,
+with an interest in building reliable and user-friendly software applications.
 
-I enjoy learning new technologies, developing backend systems, testing applications, and solving real-world problems through code. 🚀
+I enjoy learning new technologies, developing backend systems,
+testing applications, and solving real-world problems through code. 🚀
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 * 🎓 BSc (Hons) in Information Technology
 * 💻 Focused on **Backend Development**
 * 🧪 Interested in **Software Quality Assurance & Testing**
 * 🌱 Currently improving my skills in **Django, Backend Development & Automation Testing**
-* 🔍 Interested in API Testing and Automation Testing
+* 🔍 Interested in **API Testing and Automation Testing**
 * 💡 Always learning and building new projects
 
 ---
-### ⚙️ Tools & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,django,react,tailwind,postgresql,mysql,selenium,postman,git,github,vscode" />
-</p>
+<div align="center">
 
+## ⚙️ Tools & Technologies
 
-### 🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=python,java,html,css,django,react,tailwind,postgresql,mysql,selenium,postman,git,github,vscode" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
 
 * Advanced Django Development
 * Backend Development
@@ -36,16 +46,14 @@ I enjoy learning new technologies, developing backend systems, testing applicati
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-![Ruchini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharushika2002\&show_icons=true\&theme=tokyonight)
-
----
-
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always interested in **learning, collaborating, testing, and building better software**.
 
 ⭐ Thanks for visiting my profile!
 
-**Ruchini Tharushika Thilakarathna**
+### Ruchini Tharushika Thilakarathna
+
+</div>
